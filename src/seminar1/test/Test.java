@@ -1,6 +1,6 @@
-package test;
+package seminar1.test;
 
-import calculator.Calculator;
+import seminar1.calculator.Calculator;
 
 public class Test {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package calculator;
+package seminar1.calculator;
 
 /**
  * Calculator
